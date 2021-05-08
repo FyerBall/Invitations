@@ -1,10 +1,3 @@
-// Data
-//  -[] event
-//  -[] title, pic and description
-//  -[]
-//  -[]
-//  -[]
-
 // https://github.com/fullcalendar/fullcalendar/blob/master/examples/json/events.json
 export const events = [
   {

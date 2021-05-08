@@ -1,4 +1,4 @@
-Invitations
+# Invitations
 
 ### Overview
 
@@ -19,5 +19,5 @@ A small app for accepting or declining invitations. The number of attendee creat
 
 ### Links
 
-[Live](https://meshariabid.com/) \
-[Source Code](https://github.com/FyerBall/Foodie)
+[Live](https://affectionate-goldwasser-7e4327.netlify.app) \
+[Source Code](https://github.com/FyerBall/Invitations/)
